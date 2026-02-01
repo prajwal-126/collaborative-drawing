@@ -1,5 +1,9 @@
 # Real-Time Collabortive-Drawing Canvas
 
+# Deployement
+Not deployed yet — currently learning deployment strategies and planning deployment as part of a larger distributed systems project.
+
+
 ## Overview
 A real-time multi-user drawing application where multiple users can draw simultaneously on a shared canvas and see each others drawing.
 
