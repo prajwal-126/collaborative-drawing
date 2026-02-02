@@ -25,3 +25,9 @@ A real-time multi-user drawing application where multiple users can draw simulta
 
   npm install
   cd client-react && npm install
+
+
+
+### Run Application
+  node server/server.js
+
